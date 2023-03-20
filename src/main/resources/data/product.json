@@ -1,0 +1,32 @@
+[
+  {
+    "identification":1,
+    "description":"Camisa de algodón para hombre",
+    "importe":499.99,
+    "stock":10
+  },
+  {
+    "identification":2,
+    "description":"Jeans ajustados para mujer",
+    "importe":699.99,
+    "stock":15
+  },
+  {
+    "identification":3,
+    "description":"Zapatillas deportivas para niños",
+    "importe":299.99,
+    "stock":20
+  },
+  {
+    "identification":4,
+    "description":"Pantalones cortos de mezclilla para hombre",
+    "importe":399.99,
+    "stock":5
+  },
+  {
+    "identification":5,
+    "description":"Vestido de fiesta para mujer",
+    "importe":1299.99,
+    "stock":8
+  }
+]
