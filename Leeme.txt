@@ -7,3 +7,4 @@ curl --location 'http://localhost:8080/api/shoppingcart/1'
 curl --location --request POST 'http://localhost:8080/api/shoppingcart/add?productId=1&quantity=2'
 
 curl --location --request POST 'http://localhost:8080/api/shoppingcart/remove?productId=1&quantity=3'
+
